@@ -65,7 +65,7 @@ Los filtros disponibles son:
 	31. Esteganografía Encriptar Texto
 	32. Esteganografía Desencriptar Texto
 	33. Sepia (En Tonos de grises)
-	34. FotoMosaico
+	34. FotoMosaico (Con distancia Euclidiana y Riemersma)
 
 NOTA: De momento los filtros Óleo y Óleo Tonos de Grises sólo funcionan con matrices de 3x3.
 
